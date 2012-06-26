@@ -1,3 +1,6 @@
+* Tue Jun 26 2012 Marko Saukko <sage@merproject.org> - 2.11
+- Fixes MER#358: update tmpwatch to 2.11
+
 * Tue Nov 22 2011 Marko Saukko <marko.saukko@cybercom.com> - 2.10.3
 - Updated to version 2.10.3.
 - Added .yaml for spectacle.

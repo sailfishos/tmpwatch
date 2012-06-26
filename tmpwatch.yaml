@@ -1,12 +1,12 @@
 Name: tmpwatch
 Summary: A utility for removing files based on when they were last accessed
-Version: 2.10.3
-Release: 2
+Version: 2.11
+Release: 1
 Group: System/Base
 License: GPLv2
 URL: https://fedorahosted.org/tmpwatch/
 Sources:
-    - "%{name}-%{version}.tar.bz2"
+    - "https://fedorahosted.org/releases/t/m/tmpwatch/%{name}-%{version}.tar.bz2"
     - tmpwatch.daily
 Description: |
     The tmpwatch utility recursively searches through specified
